@@ -21,6 +21,11 @@ npm start
 
 To verify your React app, in your browser, navigate to http://localhost:3000/
 
+- C for Create: HTTP POST
+- R for Read: HTTP GET
+- U for Update: HTTP PUT
+- D for Delete: HTTP DELETE
+
 ## Creating Express App
 
 Run the following commands in your terminal.
