@@ -1,4 +1,4 @@
-# Express-React-demo
+# express-react-demo
 
 ## Creating Main Project Directory
 
