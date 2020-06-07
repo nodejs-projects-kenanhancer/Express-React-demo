@@ -32,4 +32,8 @@ npm install
 npm start
 ```
 
-To verify your React app, in your browser, navigate to http://localhost:3000/
+then update start script in `./api/package.json` file with `PORT=9000`. So it looks like the following line.
+
+`"start": "PORT=9000 node ./bin/www"` 
+
+To verify your React app, in your browser, navigate to http://localhost:9000/
